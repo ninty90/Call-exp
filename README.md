@@ -75,7 +75,7 @@ callManager.startCall("95555", this);
 
 ###其他功能
 
-`void hangup()` 掛斷處理
+`void hangUp()` 掛斷處理
 
 `void sendDtmf(int tayKey)` 發送dtmf
 
